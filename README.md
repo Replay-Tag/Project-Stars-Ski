@@ -1,6 +1,7 @@
 ![Banner](https://i.imgur.com/VQdErni.png)
 
 Project Stars Ski is a Fortnite Private Server. Below are the key points about this project:
+
 Discord Server coming soon
 
 ## Features
